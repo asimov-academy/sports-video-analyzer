@@ -25,7 +25,7 @@ Utilizando apenas **PYTHON** e as bibliotecas
 ## Conteúdo
 Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação Web Apps e Dashboards, acesse:
 
-<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
+<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
