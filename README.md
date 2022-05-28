@@ -1,4 +1,4 @@
-# Tennis Video Analyzer
+# Sports Video Analyzer
 Este é um aplicativo criado para análise de vídeos esportivos utilizando Python.
 
 ## 🔧 Funções
